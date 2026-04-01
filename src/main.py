@@ -5,7 +5,7 @@ from sprites import Player
 pygame.init()
 clock= pygame.time.Clock()
 
-WIDTH,HEIGHT= 800,600
+WIDTH,HEIGHT= 900,700
 screen=pygame.display.set_mode((WIDTH,HEIGHT))
 
 pygame.display.set_caption("footballRetro")
